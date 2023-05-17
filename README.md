@@ -13,7 +13,7 @@ In the project directory, you can run:
 
 Clone repository:
 
-### `git clone <repository_url>`
+### `git clone git@github.com:NicoPaladini/goalsetter-challenge.git`
 
 ### `cd goalsetter-challenge`
 
